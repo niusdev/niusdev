@@ -1,4 +1,3 @@
-<img width=100% src="https://github.com/Gomesvn/Gomesvn/blob/main/Capa%20Github.png"/>
 <h3 align="center"> Hi, I'm Vinícius Damascena. 🙋🏽‍♂️ </h3>
  
 ## Sobre mim / About me: :alien:
