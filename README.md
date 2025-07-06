@@ -30,7 +30,7 @@ salutation("Vinicius", "welcome to my world!");
 ## Skills: :computer:
 
 - JAVASCRIPT | TYPESCRIPT | NODEJS | EXPRESS | NPM |<br />
-- REACT | CSS | STYLED-COMPONENTS | MATERIAL-UI |<br />
+- REACT | CSS | TAILWIND | STYLED-COMPONENTS | MATERIAL-UI |<br />
 - PRISMA | MYSQL | MONGODB | POSTGRESQL | <br />
 - GIT | GITHUB | <br />
 - DESIGN PATTERNS | CLEAN CODE | <br />
