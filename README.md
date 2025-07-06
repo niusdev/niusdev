@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, I'm Vinícius Damascena. 🙋🏽‍♂️ </h3>
+<h3 align="center"> Hi, I'm Vini. 🙋🏽‍♂️ </h3>
  
 ## Sobre mim / About me: :alien:
 
