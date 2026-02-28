@@ -1,11 +1,6 @@
 ## Olá, eu sou o Vinicius! 🙋🏽‍♂️
 
-Estudante de **Ciência da Computação no IFCE** e formado em **T.I**.  
-Minha jornada é guiada pela curiosidade e pela vontade de construir aplicações que resolvam problemas reais.
-
-Atualmente foco meus estudos na **Stack JavaScript (TypeScript, Node.js e React)**.
-
-Busco aprender novos conceitos constantemente e aplicá-los em projetos práticos. Além disso, gosto de pesquisar tendências inovadoras em conferências de tecnologia para fundamentar meus planos de estudo, projetos e descobrir do que a tecnologia é capaz!
+Acadêmico de **Ciência da Computação no IFCE** e técnico em **T.I.**, guio minha jornada pela curiosidade e desejo de construir aplicações que resolvam problemas reais. Especializando-me na Stack JavaScript (TypeScript, Node.js e React), priorizo o aprendizado contínuo através da prática. Sou um entusiasta por inovações tecnológicas, utilizando insights de conferências para guiar meus projetos e descobrir do que a tecnologia é capaz.
 
 ---
 
