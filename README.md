@@ -28,7 +28,7 @@ Busco aprender novos conceitos constantemente e aplicá-los em projetos prático
 <tr>
 <td><strong>Frontend</strong></td>
 <td>
-<details><summary><b>Html</b></summary><ul><li>Tags Semânticas</li><li></li>Formulários</li><li>**Acessibilidade**</li><li>**SEO Básico**</li></ul></details> 
+<details><summary><b>Html</b></summary><ul><li>Tags Semânticas</li><li>Formulários</li><li>**Acessibilidade**</li><li>**SEO Básico**</li></ul></details> 
 
 <details><summary><b>CSS</b></summary><ul><li>Flexbox & Grid (Responsividade)</li><li>**Animações**</li><li>CSS Modules</li><li>Styled Components</li></ul></details> 
 <details><summary> <b>React.js</b></summary><ul><li>Hooks</li><li>Componentização de UI</li><li>Gerenciamento de Estado</li><li>React Router Dom</li><li>Consumo de APIs REST</li></ul></details>
