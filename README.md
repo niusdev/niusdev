@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vinicius! 🙋🏽‍♂️
 
-Sou estudante de **Ciência da Computação no IFCE** e formado em **T.I**.  
+Estudante de **Ciência da Computação no IFCE** e formado em **T.I**.  
 Minha jornada é guiada pela curiosidade e pela vontade de construir aplicações que resolvam problemas reais.
 
 Atualmente foco meus estudos na **Stack JavaScript (TypeScript, Node.js e React)**.
