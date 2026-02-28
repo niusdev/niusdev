@@ -89,7 +89,7 @@ Busco aprender novos conceitos constantemente e aplicá-los em projetos prático
 
 ---
 
-### Vem ver no que eu ando trabalhando:
+### Vem ver no que eu ando trabalhando: 👀
 
 #### 🎬 [MovieLib](https://github.com/niusdev/movielib)
 
