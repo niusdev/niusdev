@@ -2,7 +2,7 @@
 
 * Acadêmico de **Ciência da Computação no IFCE** e técnico em **T.I.**.  
 * Guio minha jornada pela curiosidade e desejo de construir aplicações que resolvam problemas reais.   
-* Especializando-me na Stack JavaScript (TypeScript, Node.js e React), priorizo o aprendizado contínuo através da prática.   
+* Especializando-me na **Stack JavaScript** (TypeScript, Node.js e React.js), priorizando o aprendizado contínuo através da prática.   
 * Sou um entusiasta por inovações tecnológicas, utilizando insights de conferências para guiar meus projetos e descobrir do que a tecnologia é capaz.  
 
 ---
