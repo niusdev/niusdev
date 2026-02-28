@@ -91,7 +91,7 @@ Busco aprender novos conceitos constantemente e aplicá-los em projetos prático
 
 ### Vem ver no que eu ando trabalhando:
 
-#### 🎬 [MovieLib](https://github.com/thalytalima211/cinehub)
+#### 🎬 [MovieLib](https://github.com/niusdev/movielib)
 
 - **O desafio:** Consumir APIs externas e gerenciar estados complexos no Frontend.
 - **O que aprendi:** Integração de dados em tempo real e UX focada no usuário.
