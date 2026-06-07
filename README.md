@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Vinícius%20Damascena&fontSize=36&fontColor=58A6FF&fontAlignY=45&desc=Desenvolvedor%20Fullstack&descAlignY=65&descColor=58A6FF" />
 </div>
 
-Atualmente acadêmico do curso de **Ciência da Computação no IFCE** e já formado técnico em **Tecnologia da Informação**. 
+Atualmente acadêmico do curso de **Ciência da Computação** no IFCE e já formado técnico em **Tecnologia da Informação**. 
 Especializando-me na **Stack JavaScript** (TypeScript, Node e React), priorizando o aprendizado contínuo através da prática.
 Guio minha jornada pela curiosidade e desejo de construir aplicações que resolvam problemas reais.
 
