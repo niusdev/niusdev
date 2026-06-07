@@ -1,121 +1,47 @@
-## Olá, eu sou o Vinicius! 🙋🏽‍♂️
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Vinícius%20Damascena&fontSize=36&fontColor=58A6FF&fontAlignY=45&desc=Desenvolvedor%20Fullstack&descAlignY=65&descColor=58A6FF" />
+</div>
 
-* Acadêmico de **Ciência da Computação no IFCE** e técnico em **T.I.**.  
-* Guio minha jornada pela curiosidade e desejo de construir aplicações que resolvam problemas reais.   
-* Especializando-me na **Stack JavaScript** (TypeScript, Node.js e React.js), priorizando o aprendizado contínuo através da prática.   
-* Sou um entusiasta por inovações tecnológicas, utilizando insights de conferências para guiar meus projetos e descobrir do que a tecnologia é capaz.  
+Atualmente acadêmico do curso de **Ciência da Computação no IFCE** e já formado técnico em **Tecnologia da Informação**. 
+Especializando-me na **Stack JavaScript** (TypeScript, Node e React), priorizando o aprendizado contínuo através da prática.
+Guio minha jornada pela curiosidade e desejo de construir aplicações que resolvam problemas reais.
 
----
+```
+console.log("Bem-vindo(a) ao meu mundo! Vamos descobrir do que a tecnologia é capaz!");
+```
 
-### 🚀 Skills:
+## Skills
 
-<table width="100%" border="1" cellspacing="0" cellpadding="8">
-<tr>
-<th align="left">Categoria</th>
-<th align="left">Tecnologias & Especialidades</th>
-</tr>
+**Linguagens:**   
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<tr>
-<td><strong>Linguagens</strong></td>
-<td>
+**Principais tecnologias:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<details><summary> <b>JavaScript</b></summary><ul><li>Manipulação de DOM & Eventos</li><li>ES6+ (Arrow Functions, Destructuring)</li><li>**Fetch, Async/Await & Promises**</li></ul></details> 
-</td>
-</tr>
+**Em evolução:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-<details><summary><b>Html</b></summary><ul><li>Tags Semânticas</li><li>Formulários</li><li>**Acessibilidade**</li><li>**SEO Básico**</li></ul></details> 
+**Já tive contato:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<details><summary><b>CSS</b></summary><ul><li>Flexbox & Grid (Responsividade)</li><li>**Animações**</li><li>CSS Modules</li><li>Styled Components</li></ul></details> 
-<details><summary> <b>React.js</b></summary><ul><li>Hooks</li><li>Componentização de UI</li><li>Gerenciamento de Estado</li><li>React Router Dom</li><li>Consumo de APIs REST</li></ul></details>
+## 📫 Conecte-se comigo
 
-</td>
-</tr>
+Estou sempre aberto a trocar ideias sobre tecnologia, oportunidades ou colaborações em projetos!
 
-<tr>
-<td><strong>Backend</strong></td>
-<td>
+- Linkedin: https://www.linkedin.com/in/vin%C3%ADcius-gomes-damascena-2900922ab/
+- Email: vinidamascenadev@gmail.com
 
-<details><summary><b>Node.js & Express</b></summary><ul><li>**Arquitetura de APIs**</li><li>**Middlewares**</li><li>**Tratamento de Erros**</li></ul></details>
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Banco de Dados</strong></td>
-<td>
-
-<details><summary> <b>Prisma ORM</b></summary><ul><li>**Migrations**</li><li>**Modelagem de dados**</li></ul></details> <details><summary><b>MySQL</b></summary><ul><li>Relacionamentos</li><li>Queries de manipulação</li></ul></details>
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Ferramentas</strong></td>
-<td>
-
-<details><summary><b>Git & GitHub</b></summary><ul><li>Versionamento (Branchs/Merges)</li><li>GitHub Flow (PRs/Reviews)</li></ul></details>
-</td>
-</tr>
-</table>
-
----
-
-### 🗺️ Roadmap de Evolução (Próximos passos):
-
-**Tipagem:**
-
-- [ ] `Typescript` - Javascript com tipagem
-
-**Frontend Moderno:**
-
-- [ ] `Next.js` - Server Side Rendering & Static Generation
-- [ ] `Tailwind CSS` & `Shadcn/ui` - Estilização Utilitária
-- [ ] `Sass` & `Modern CSS`
-
-**Backend & Qualidade:**
-
-- [ ] `Nest.js` - Arquitetura escalável no Node
-- [ ] `Jest` - Testes Unitários e de Integração
-
-**Infra & Dados:**
-
-- [ ] `PostgreSQL` & `MongoDB`
-- [ ] `Docker` - Conteinerização de aplicações
-
----
-
-### Vem ver no que eu ando trabalhando: 👀
-
-#### 🎬 [MovieLib](https://github.com/niusdev/movielib)
-
-- **O desafio:** Consumir APIs externas e gerenciar estados complexos no Frontend.
-- **O que aprendi:** Integração de dados em tempo real e UX focada no usuário.
-- **Tecs usadas:**
-
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<p align="left"><a href="https://github.com/niusdev/movielib">➡️ Ver repositório</a></p>
-
----
-
-### 📫 Conecte-se comigo
-
-Estou sempre aberto a trocar ideias sobre tecnologia, oportunidades de estágio ou colaborações em projetos!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vinícius-gomes-64748629a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cmp.1a.vinicius.damascena.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=383FFC&height=80&section=footer"/>
-</p>
